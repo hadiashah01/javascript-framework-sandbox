@@ -8,6 +8,7 @@ The purpose of this project is to understand how different ecosystems approach a
 - [Project Directories](#project-directories)
 - [Learning Objectives](#learning-objectives)
 - [Tech Stack](#tech-stack)
+- [Official Documentation](#official-documentation)
 - [Author](#author)
 
 ## Project Directories
@@ -46,6 +47,19 @@ Navigate directly to each framework workspace:
 * **Package Manager:** npm
 * **Languages:** JavaScript & TypeScript (where applicable)
 
+## Official Documentation
+
+- Angular → https://angular.dev
+- React → https://react.dev
+- Vue → https://vuejs.org
+- Svelte → https://svelte.dev
+- SolidJS → https://www.solidjs.com
+- Qwik → https://qwik.dev
+- Preact → https://preactjs.com
+- Lit → https://lit.dev
+- Marko → https://markojs.com
+- Ember → https://emberjs.com
+- Vanilla JavaScript (MDN) → https://developer.mozilla.org/docs/Web/JavaScript
 
 ##  Author
 
